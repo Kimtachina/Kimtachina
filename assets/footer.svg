@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+  <defs><clipPath id="f"><rect width="1200" height="120" rx="28"/></clipPath></defs>
+  <g clip-path="url(#f)">
+    <rect width="1200" height="120" fill="#B9C7EA"/>
+    <path d="M-20 40 C90 0 170 80 280 35 S470 -5 570 38 S760 80 860 38 S1060 -5 1240 35 L1240 140 L-20 140 Z"
+          fill="#9D6BD8" stroke="#1A1A1A" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M-20 70 C100 40 190 96 300 68 S500 40 600 70 S800 96 900 68 S1100 40 1240 68 L1240 140 L-20 140 Z"
+          fill="#5B7FD6" stroke="#1A1A1A" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M-20 96 C100 72 190 118 300 94 S500 72 600 96 S800 118 900 94 S1100 72 1240 94 L1240 140 L-20 140 Z"
+          fill="#E84FA0" stroke="#1A1A1A" stroke-width="6" stroke-linejoin="round"/>
+    <g fill="#F3E6C4" stroke="#1A1A1A" stroke-width="4" stroke-linejoin="round">
+      <path transform="translate(140 30)" d="M0 -16 C2 -4 4 -2 16 0 C4 2 2 4 0 16 C-2 4 -4 2 -16 0 C-4 -2 -2 -4 0 -16 Z"/>
+      <path transform="translate(600 24)" d="M0 -16 C2 -4 4 -2 16 0 C4 2 2 4 0 16 C-2 4 -4 2 -16 0 C-4 -2 -2 -4 0 -16 Z"/>
+      <path transform="translate(1060 30)" d="M0 -16 C2 -4 4 -2 16 0 C4 2 2 4 0 16 C-2 4 -4 2 -16 0 C-4 -2 -2 -4 0 -16 Z"/>
+    </g>
+  </g>
+  <rect x="3" y="3" width="1194" height="114" rx="26" fill="none" stroke="#1A1A1A" stroke-width="6"/>
+</svg>
