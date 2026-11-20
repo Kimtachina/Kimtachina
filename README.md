@@ -25,5 +25,11 @@
 <!-- กราฟกิจกรรม -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimtachina&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
 
+<!-- ตาราง contributions (งูกินกราฟ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kimtachina/Kimtachina/output/github-snake-dark.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Kimtachina/Kimtachina/output/github-snake.svg" width="100%" />
+</picture>
+
 <!-- คลื่นด้านล่าง -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6C63FF&height=120&section=footer" width="100%" />
