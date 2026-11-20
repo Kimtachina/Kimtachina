@@ -15,21 +15,6 @@
 
 <br/>
 
-<!-- ถ้วยรางวัล -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kimtachina&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies" />
-</div>
-
-<br/>
-
-<!-- สถิติ GitHub และภาษาที่ใช้ -->
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kimtachina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimtachina&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</div>
-
-<br/>
-
 <!-- สถิติวันต่อเนื่อง -->
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Kimtachina&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
