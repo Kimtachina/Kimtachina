@@ -10,12 +10,6 @@
   <img src="https://streak-stats.demolab.com?user=Kimtachina&amp;background=131315&amp;hide_border=true&amp;stroke=494548&amp;ring=C68B70&amp;fire=D9A38B&amp;currStreakNum=EEE9E1&amp;sideNums=EEE9E1&amp;currStreakLabel=C68B70&amp;sideLabels=C7C2BB&amp;dates=ADA6A0&amp;border_radius=6" alt="Kimtachina's contribution streak" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimtachina&amp;bg_color=131315&amp;color=C7C2BB&amp;title_color=EEE9E1&amp;line=C68B70&amp;point=EEE9E1&amp;area=true&amp;area_color=765641&amp;radius=6&amp;hide_border=true" width="100%" alt="Kimtachina's recent contribution activity" />
-
-<details>
-<summary>Contribution snake</summary>
-
 <img src="https://raw.githubusercontent.com/Kimtachina/Kimtachina/output/github-snake.svg" width="100%" alt="Animated snake moving across Kimtachina's contribution calendar" />
-</details>
 
 <img src="assets/footer.svg" width="100%" alt="" />
