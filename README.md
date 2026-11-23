@@ -1,34 +1,21 @@
-<!-- หัวแบนเนอร์ -->
-<img src="assets/banner.svg" width="100%" alt="Kimtachina" />
+<img src="assets/banner.svg" width="100%" alt="Kimtachina — GitHub profile" />
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=16&amp;duration=3000&amp;pause=1100&amp;color=C68B70&amp;center=true&amp;vCenter=true&amp;width=360&amp;lines=%2F%2F+welcome+to+my+github;%2F%2F+thanks+for+stopping+by" alt="Welcome to my GitHub. Thanks for stopping by." />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Kimtachina&amp;label=profile+views&amp;color=765641&amp;style=flat-square" alt="Profile views" />
+</p>
 
-<!-- ข้อความพิมพ์อัตโนมัติ -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=800&color=F0709E&center=true&vCenter=true&width=520&lines=%2F%2F+welcome+to+my+github;%2F%2F+thanks+for+stopping+by" alt="Typing SVG" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kimtachina&amp;background=131315&amp;hide_border=true&amp;stroke=494548&amp;ring=C68B70&amp;fire=D9A38B&amp;currStreakNum=EEE9E1&amp;sideNums=EEE9E1&amp;currStreakLabel=C68B70&amp;sideLabels=C7C2BB&amp;dates=ADA6A0&amp;border_radius=6" alt="Kimtachina's contribution streak" />
+</p>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimtachina&amp;bg_color=131315&amp;color=C7C2BB&amp;title_color=EEE9E1&amp;line=C68B70&amp;point=EEE9E1&amp;area=true&amp;area_color=765641&amp;radius=6&amp;hide_border=true" width="100%" alt="Kimtachina's recent contribution activity" />
 
-<!-- ตัวนับคนเข้าชม -->
-<img src="https://komarev.com/ghpvc/?username=Kimtachina&label=profile_views&color=E879D6&style=for-the-badge" alt="Profile views" />
+<details>
+<summary>Contribution snake</summary>
 
-</div>
+<img src="https://raw.githubusercontent.com/Kimtachina/Kimtachina/output/github-snake.svg" width="100%" alt="Animated snake moving across Kimtachina's contribution calendar" />
+</details>
 
-<br/>
-
-<!-- สถิติวันต่อเนื่อง -->
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Kimtachina&background=121116&border=2A2730&stroke=2A2730&ring=E879D6&fire=F28A4C&currStreakNum=F5F0F7&sideNums=F5F0F7&currStreakLabel=E879D6&sideLabels=F28A4C&dates=9C93A6&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<!-- กราฟกิจกรรม -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimtachina&bg_color=121116&color=F5F0F7&title_color=E879D6&line=E879D6&point=F28A4C&area=true&area_color=E879D6&radius=20&hide_border=true" width="100%" alt="Activity graph" />
-
-<br/>
-
-<!-- ตาราง contributions (งูกินกราฟ) -->
-<img src="https://raw.githubusercontent.com/Kimtachina/Kimtachina/output/github-snake.svg" width="100%" alt="Contribution graph" />
-
-<!-- แถบปิดท้าย -->
 <img src="assets/footer.svg" width="100%" alt="" />
