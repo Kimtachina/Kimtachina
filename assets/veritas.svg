@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 220" width="580" height="220" role="img" aria-labelledby="title desc">
+  <title id="title">VERITAS</title>
+  <desc id="desc">A dark wordmark and an exploded stack of printed scan reports on a vermilion sleeve.</desc>
+  <defs>
+    <pattern id="screen" width="4" height="4" patternUnits="userSpaceOnUse">
+      <circle cx=".9" cy=".9" r=".7" fill="#60251f"/>
+    </pattern>
+    <pattern id="hatch" width="5" height="5" patternUnits="userSpaceOnUse">
+      <path d="M-1 1l2-2m-1 6 5-5m-1 6 2-2" fill="none" stroke="#322320" stroke-width="1"/>
+    </pattern>
+    <g id="sheet">
+      <path d="M0 0h132l18 17v90H0Z" stroke="#2b201f" stroke-width="2.6" stroke-linejoin="round"/>
+      <path d="M132 0v17h18" fill="none" stroke="#2b201f" stroke-width="2"/>
+    </g>
+    <clipPath id="art"><path d="M266 10H570V210H266Z"/></clipPath>
+  </defs>
+  <rect width="580" height="220" fill="#ff5b43"/>
+  <rect x="8.5" y="8.5" width="563" height="203" rx="2" fill="none" stroke="#8b332a" opacity=".8"/>
+  <g stroke="#302323" fill="none" stroke-width="2">
+    <path d="M28 31v-8h9m21 0h9v8m0 10v8h-9m-21 0h-9v-8"/>
+    <path d="M38 36h20"/>
+  </g>
+  <g clip-path="url(#art)">
+    <path d="M321 108l133-48 109 91-138 48z" fill="url(#screen)"/>
+    <g transform="matrix(.98 -.32 .72 .63 319 129)">
+      <use href="#sheet" fill="#b93e31"/>
+      <path d="M15 25h85M15 33h51M15 79h117" fill="none" stroke="#442b27" stroke-width="2"/>
+    </g>
+    <g transform="matrix(.98 -.32 .72 .63 314 109)">
+      <use href="#sheet" fill="#ff9975"/>
+      <path d="M15 25h88M15 33h51M15 84h115M15 91h64" fill="none" stroke="#5a3028" stroke-width="2"/>
+    </g>
+    <g transform="matrix(.98 -.32 .72 .63 309 89)">
+      <use href="#sheet" fill="#ffbf96"/>
+      <path d="M15 25h88M15 33h51M15 84h115M15 91h64" fill="none" stroke="#5a3028" stroke-width="2"/>
+    </g>
+    <g transform="matrix(.98 -.32 .72 .63 304 69)">
+      <use href="#sheet" fill="#ffe9c6"/>
+      <path d="M9 10h115M9 96h131" fill="none" stroke="#302321" stroke-width="1.3"/>
+      <path d="M15 19h51v5H15z" fill="#302321"/>
+      <g stroke="#49332b" fill="none" stroke-width="1.8" stroke-linecap="square">
+        <path d="M20 37.0h29" />
+        <path d="M20 42.2h34" />
+        <path d="M20 47.4h25" />
+        <path d="M20 52.6h39" />
+        <path d="M20 57.8h31" />
+        <path d="M20 63.0h29" />
+        <path d="M20 68.2h34" />
+        <path d="M20 73.4h25" />
+        <path d="M20 78.6h39" />
+        <path d="M20 83.8h31" />
+      </g>
+      <rect x="75" y="30" width="58" height="55" rx="1" fill="url(#hatch)" stroke="#302321"/>
+      <path d="M80 36h48v43H80z" fill="#fff2d3" stroke="#302321" stroke-width="1.8"/>
+      <path d="M87 55h6l7 9 14-19h8" fill="none" stroke="#342624" stroke-width="3.7"/>
+    </g>
+    <g fill="none" stroke="#482824" stroke-width="1.35" stroke-dasharray="2 4">
+      <path d="M295 69v60m241-36v59"/>
+    </g>
+  </g>
+  <text x="25" y="173" fill="#2a2020" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="59" letter-spacing="-3.8">VERITAS</text>
+</svg>
